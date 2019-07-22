@@ -1,0 +1,47 @@
+body {
+  background: #fff;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  color: #008080;
+  list-style: none;
+}
+
+li:nth-child(2n + 1) {
+  color: #000080;
+}
+
+li:hover {
+  color: red;
+}
+
+input[type=checkbox] {
+  position: relative;
+  color: inherit;
+}
+
+input[type=checkbox]::before,
+input[type=checkbox]::after {
+  position: absolute;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  line-height: 12px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+input[type=checkbox]:checked::after {
+  content: 'x';
+  color: white;
+}
+
+input[type=checkbox]::before {
+  content: ' ';
+  background-color: currentColor;
+}
+

@@ -1,0 +1,30 @@
+{
+  "name": "fe-you-dont-know",
+  "version": "1.0.0",
+  "description": "分享在前端开发中，你不知道的JavaScript、CSS和HTML趣味知识，增加你的知识面。",
+  "main": "index.js",
+  "scripts": {
+    "demo:dev": "demosify --serve",
+    "demo:prod": "demosify --prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akira-cn/FE_You_dont_know.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akira-cn/FE_You_dont_know/issues"
+  },
+  "homepage": "https://github.com/akira-cn/FE_You_dont_know#readme",
+  "devDependencies": {
+    "@demosify/core": "^0.3.1",
+    "eslint": "^6.1.0",
+    "eslint-config-sprite": "^1.0.6",
+    "eslint-plugin-html": "^6.0.0"
+  },
+  "dependencies": {
+
+  }
+}

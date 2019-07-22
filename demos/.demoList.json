@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Checkbox",
+    "src": "checkbox"
+  },
+  {
+    "label": "Svg Icon",
+    "src": "svgicon"
+  }
+]

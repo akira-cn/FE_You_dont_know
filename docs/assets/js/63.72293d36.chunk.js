@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[63],{465:function(n,e,o){"use strict";o.r(e),e.default="a {\n  text-decoration: none;\n}\n\na:link,\na:visited {\n  color: #37c;\n}\n\na:hover,\na:active {\n  border-bottom: dashed;\n  color: red;\n}\n\n.item svg {\n  width: 32px;\n  height: 32px;\n  vertical-align: middle;\n  fill: currentColor;\n}"}}]);

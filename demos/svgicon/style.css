@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+}
+
+a:link,
+a:visited {
+  color: #37c;
+}
+
+a:hover,
+a:active {
+  border-bottom: dashed;
+  color: red;
+}
+
+.item svg {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  fill: currentColor;
+}
