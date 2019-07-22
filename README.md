@@ -4,7 +4,7 @@
 
 ## 文章
 
-[在什么情况下 a === a - 1 ？](#1)
+[在什么情况下 a === a - 1 ？](https://github.com/akira-cn/FE_You_dont_know/issues/1)
 
 ## 投稿
 
@@ -22,7 +22,8 @@
 
 ## 友情链接
 
-[360 Ecma-TC39 工作组](https://github.com/75team/tc39)
+- [360 Ecma-TC39 工作组](https://github.com/75team/tc39)
+- [360 W3C 工作组](https://github.com/75team/w3c)
 
 ## License
 
