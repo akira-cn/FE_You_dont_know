@@ -4,7 +4,7 @@
 
 ## 文章
 
-[在什么情况下 a === a - 1 ？](#1)
+[在什么情况下 a === a - 1 ？](https://github.com/akira-cn/FE_You_dont_know/issues/1)
 
 ## 投稿
 
