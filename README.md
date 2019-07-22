@@ -22,8 +22,8 @@
 
 ## 友情链接
 
-[360 Ecma-TC39 工作组](https://github.com/75team/tc39)
-[360 W3C 工作组](https://github.com/75team/w3c)
+- [360 Ecma-TC39 工作组](https://github.com/75team/tc39)
+- [360 W3C 工作组](https://github.com/75team/w3c)
 
 ## License
 
