@@ -8,6 +8,8 @@
 
 1. [巧用currentColor属性来实现自定义checkbox样式](https://github.com/akira-cn/FE_You_dont_know/issues/2)
 
+1. [冷门函数之Math.hypot]((https://github.com/akira-cn/FE_You_dont_know/issues/3)
+
 ## 投稿
 
 欢迎各位同学通过PR给我们投稿~
