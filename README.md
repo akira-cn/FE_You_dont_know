@@ -10,6 +10,8 @@
 
 1. [冷门函数之Math.hypot](https://github.com/akira-cn/FE_You_dont_know/issues/3)
 
+1. [你还在用charCodeAt那你就out了] (https://github.com/akira-cn/FE_You_dont_know/issues/4)
+
 ## 投稿
 
 欢迎各位同学通过PR给我们投稿~
