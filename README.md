@@ -5,12 +5,10 @@
 ## 文章
 
 1. [在什么情况下 a === a - 1 ？](https://github.com/akira-cn/FE_You_dont_know/issues/1)
-
 1. [巧用currentColor属性来实现自定义checkbox样式](https://github.com/akira-cn/FE_You_dont_know/issues/2)
-
 1. [冷门函数之Math.hypot](https://github.com/akira-cn/FE_You_dont_know/issues/3)
-
 1. [你还在用charCodeAt那你就out了](https://github.com/akira-cn/FE_You_dont_know/issues/4)
+1. [如何优雅地取数值的整数和小数部分](https://github.com/akira-cn/FE_You_dont_know/issues/5)
 
 ## 投稿
 
