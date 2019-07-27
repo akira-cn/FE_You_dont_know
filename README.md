@@ -9,6 +9,7 @@
 1. [冷门函数之Math.hypot](https://github.com/akira-cn/FE_You_dont_know/issues/3)
 1. [你还在用charCodeAt那你就out了](https://github.com/akira-cn/FE_You_dont_know/issues/4)
 1. [如何优雅地取数值的整数和小数部分](https://github.com/akira-cn/FE_You_dont_know/issues/5)
+1. [续：在什么情况下a===a-1 ?]((https://github.com/akira-cn/FE_You_dont_know/issues/6)
 
 ## 投稿
 
