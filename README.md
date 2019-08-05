@@ -2,10 +2,6 @@
 
 分享在前端开发中，你不知道的JavaScript、CSS和HTML趣味知识，增加你的知识面。
 
-限时入群：
-
-![](https://p2.ssl.qhimg.com/t01e745c21b15ab4853.jpg)
-
 ## 文章
 
 1. [在什么情况下 a === a - 1 ？](https://github.com/akira-cn/FE_You_dont_know/issues/1)
