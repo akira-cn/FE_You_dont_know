@@ -16,6 +16,7 @@
 1. [如何准确判断一个对象的类型?](https://github.com/akira-cn/FE_You_dont_know/issues/11)
 1. [超好用的Blob对象！](https://github.com/akira-cn/FE_You_dont_know/issues/12)
 1. [你会用JS格式化JSON吗？](https://github.com/akira-cn/FE_You_dont_know/issues/13)
+1. [一个被忽视的webpack插件](https://github.com/akira-cn/FE_You_dont_know/issues/14) 
 
 ## 投稿
 
