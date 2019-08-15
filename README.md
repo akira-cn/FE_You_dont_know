@@ -18,6 +18,7 @@
 1. [你会用JS格式化JSON吗？](https://github.com/akira-cn/FE_You_dont_know/issues/13)
 1. [一个被忽视的webpack插件](https://github.com/akira-cn/FE_You_dont_know/issues/14) 
 1. [JS之最佳实践（1）](https://github.com/akira-cn/FE_You_dont_know/issues/15) 
+1. [Canvas的4个渲染上下文](https://github.com/akira-cn/FE_You_dont_know/issues/16) 
 
 ## 投稿
 
