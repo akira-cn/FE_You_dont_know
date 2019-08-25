@@ -20,6 +20,7 @@
 1. [JS之最佳实践（1）](https://github.com/akira-cn/FE_You_dont_know/issues/15) 
 1. [Canvas的4个渲染上下文](https://github.com/akira-cn/FE_You_dont_know/issues/16) 
 1. [Canvas滤镜的性能优化](https://github.com/akira-cn/FE_You_dont_know/issues/17)
+1. [如何优雅地生成结构化的初始数据](https://github.com/akira-cn/FE_You_dont_know/issues/18)
 
 ## 投稿
 
