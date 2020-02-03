@@ -23,6 +23,7 @@
 1. [如何优雅地生成结构化的初始数据](https://github.com/akira-cn/FE_You_dont_know/issues/18)
 1. [如何判断一个对象的某个属性是可写的](https://github.com/akira-cn/FE_You_dont_know/issues/19)
 1. [如何禁止开发者操作网页上的DOM对象](https://github.com/akira-cn/FE_You_dont_know/issues/20)
+1. [CSS gradient: 你知道的和你不知道的](https://github.com/akira-cn/FE_You_dont_know/issues/21)
 
 ## 投稿
 
