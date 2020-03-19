@@ -25,6 +25,7 @@
 1. [如何禁止开发者操作网页上的DOM对象](https://github.com/akira-cn/FE_You_dont_know/issues/20)
 1. [CSS gradient: 你知道的和你不知道的](https://github.com/akira-cn/FE_You_dont_know/issues/22)
 1. [CSS如何实现虚线框动画](https://github.com/akira-cn/FE_You_dont_know/issues/23)
+1. [如何在随机选取数组元素的时候避免相邻重复](https://github.com/akira-cn/FE_You_dont_know/issues/24)
 
 ## 投稿
 
